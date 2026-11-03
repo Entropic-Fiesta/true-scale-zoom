@@ -13,6 +13,10 @@ Tuned for the MacBook Air (M1, 2020) display. It can auto-detect the macOS "Look
 2. In Blender, open **Edit → Preferences → Add-ons**, choose **Install from Disk**, and pick the file.
 3. Enable **True Scale Zoom**.
 
+## Credits
+
+Built by J ([@Entropic-Fiesta](https://github.com/Entropic-Fiesta)) with coding help from [Claude](https://claude.ai) by Anthropic.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
